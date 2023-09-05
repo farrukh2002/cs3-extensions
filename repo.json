@@ -3,6 +3,6 @@
     "description": "Personal Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/farrukh2002/cs3-extensions/stable/plugins.json"
+      "https://raw.githubusercontent.com/farrukh2002/cs3-extensions/builds/plugins.json"
     ]
 }
